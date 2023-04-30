@@ -7,8 +7,6 @@
  </td>
  </tr></table>
 
-<div align="center"> <img src="https://metrics.lecoq.io/zyy-2001?template=classic&config.timezone=Asia%2FShanghai"> </div>
-
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zyy-2001" /> </div>
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=zyy-2001&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" style="max-width: 100%;" /> </div>
